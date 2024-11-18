@@ -7,7 +7,7 @@ This repository contains supplementary materials for the article:
 - `Taxonomy.xlsx`: A complete table of well-being indicators, including summarized descriptions.
 
 ## License
-The data and content in this repository are provided under the MIT License. You are free to use, modify, and distribute the materials with appropriate attribution. 
+You are free to use, modify, and distribute the materials with appropriate attribution. 
 
 **Important Note**: Users are advised to ensure compatibility with the IEEE Access licensing terms before using the supplementary materials for derivative works or redistribution.
 
