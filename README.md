@@ -9,7 +9,7 @@ This repository contains supplementary materials for the article:
 ## License
 You are free to use, modify, and distribute the materials with appropriate attribution. 
 
-**Important Note**: Users are advised to ensure compatibility with the IEEE Access licensing terms before using the supplementary materials for derivative works or redistribution.
+**Important Note**: Users are advised to ensure compatibility with the IEEE Access licensing terms before using the supplementary materials.
 
 ## How to Cite
 If you use this data, please cite the article:
