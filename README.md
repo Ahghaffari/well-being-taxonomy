@@ -13,6 +13,7 @@ You are free to use, modify, and distribute the materials with appropriate attri
 
 ## How to Cite
 If you use this data, please cite the article:
+```
 @article{ghaffari2024wellbeing,
   author={Amirhossein Ghaffari and Susanna Pirttikangas and Ekaterina Gilman},
   title={Understanding Well-Being in Urban Context: A Survey},
@@ -20,5 +21,6 @@ If you use this data, please cite the article:
   year={2024},
   doi={10.1109/ACCESS.2024.3506935}
 }
+```
 
 
