@@ -31,6 +31,3 @@ For BibTeX users:
   year={2024},
   doi={10.1109/ACCESS.2024.3506935}
 }
-
-
-
