@@ -24,7 +24,7 @@ DOI: [10.1109/ACCESS.2024.3506935](https://doi.org/10.1109/ACCESS.2024.3506935)
 For BibTeX users:
 
 ```bibtex
-@article{ghaffari2024wellbeing,
+@article{ghaffari2025wellbeing,
   author={Amirhossein Ghaffari and Susanna Pirttikangas and Ekaterina Gilman},
   title={Understanding Well-Being in Urban Context: A Survey},
   journal={IEEE Access},
