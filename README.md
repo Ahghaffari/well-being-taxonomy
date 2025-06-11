@@ -18,7 +18,7 @@ If you use this repository, please cite our paper:
 
 **Amirhossein Ghaffari, Susanna Pirttikangas, Ekaterina Gilman,**  
 *"Understanding Well-Being in Urban Context: A Survey,"*  
-**IEEE Access, 2024.**  
+**IEEE Access, 2025.**  
 DOI: [10.1109/ACCESS.2024.3506935](https://doi.org/10.1109/ACCESS.2024.3506935)
 
 For BibTeX users:
@@ -28,6 +28,6 @@ For BibTeX users:
   author={Amirhossein Ghaffari and Susanna Pirttikangas and Ekaterina Gilman},
   title={Understanding Well-Being in Urban Context: A Survey},
   journal={IEEE Access},
-  year={2024},
+  year={2025},
   doi={10.1109/ACCESS.2024.3506935}
 }
